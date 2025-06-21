@@ -37,13 +37,14 @@ Monitoreo de los procesos productivos:
 ---
 
 ### 4. 🛠️ Dashboard de Seguimiento de Servicios
-Permite el seguimiento de solicitudes y servicios atendidos:
-- Clasificación por tipo de servicio
-- Tiempo de atención
-- Nivel de cumplimiento
+Panel diseñado para el análisis del servicio al cliente:
+- Estado de las atenciones (S/N)
+- Tiempo de atención por agente
+- Distribución de solicitudes por área (ventas, reclamos, cancelaciones, etc.)
+- Recuento de llamadas por fecha
+- Indicadores de satisfacción, total de atenciones y tiempo de espera
 
-![Dashboard de Seguimiento](dashboard_financiero.png)
-
+![Dashboard de Seguimiento de Servicios](dashboard_Servicios.png)
 ---
 
 ## 🧠 Tecnologías Utilizadas
