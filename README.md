@@ -32,7 +32,7 @@ Monitoreo de los procesos productivos:
 - Costos de producción
 - Eficiencia operativa
 
-![Dashboard de Producción](dashboard_Produccion..png)
+![Dashboard de Producción](dashboard_Produccion.png)
 
 ---
 
