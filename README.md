@@ -117,7 +117,7 @@
 
 **Resultado:** Reducción del tiempo de análisis de cartera, priorización efectiva de gestiones de cobro y visibilidad ejecutiva del riesgo financiero por segmento de cliente.
 
-![Reporte de Cartera](REPORTE DE CARTERA.png)
+![Reporte de Cartera](REPORTE_DE_CARTERA.PNG)
 
 ---
 
