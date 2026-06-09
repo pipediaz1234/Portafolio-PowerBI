@@ -145,7 +145,7 @@ Portafolio-PowerBI/
 ├── dashboar seguimiento de servicios.pbix
 ├── dashboard produccion.pbix
 │
-├── dashboard_Cartera.png
+├── REPORTE_DE_CARTERA.png
 ├── dashboard_Resumen_financiero.png
 ├── dashboard_Ventas.png
 ├── dashboard_Produccion.png
