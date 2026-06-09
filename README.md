@@ -163,7 +163,7 @@ Portafolio-PowerBI/
 Estudiante de Ingeniería de Sistemas — Universidad de Cundinamarca
 Especialización en análisis de datos, Power BI y administración de bases de datos
 
-📧 pipediaz1234@gmail.com
+📧 pipediazcampos1429@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/andres-felipe-diaz-campos-398245207/)
 💼 [GitHub](https://github.com/pipediaz1234)
 
